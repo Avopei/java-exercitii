@@ -1,4 +1,4 @@
-Java Laboratoare - proiecte pentru IntelliJ
+Java Laboratoare
 
 Structura:
 - L06_Pachete_Exceptii_Asertiuni
@@ -9,9 +9,6 @@ Structura:
 - L12_Ex5_InregistrareStudent
 - L12_Ex6_Labirint
 - L12_Ex7_Zaruri
-
-Fiecare folder se poate deschide separat in IntelliJ:
-File -> Open -> alegi folderul exercitiului.
 
 Pentru laboratorul L12 am facut proiecte separate deoarece mai multe fisiere folosesc aceleasi nume de clase:
 Test, MyFrame, MyCanvas.
