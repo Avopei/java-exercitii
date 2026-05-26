@@ -1,15 +1,14 @@
 # Java Laboratoare
 
-Repository cu laboratoare si teme Java. Contine cod sursa, proiecte pentru IntelliJ si referate.
+Repository cu laboratoare si teme Java. Contine cod sursa, proiecte si referate.
 
 ## Structura
 
 ```text
-Java-Laboratoare-GitHub/
+Java
   labs/                 # cod sursa organizat pe laboratoare
-  proiecte-intellij/    # proiecte simple care pot fi deschise in IntelliJ
+  proiecte-intellij/    # proiecte simple 
   docs/                 # referate/documentatii Word
-  materials/            # fisiere PDF primite la laborator
   assets/               # imagini folosite in exercitii
 ```
 
@@ -20,24 +19,6 @@ Java-Laboratoare-GitHub/
 - **L10** - Aplicatii grafice AWT
 - **L11** - Componente grafice si Layout Managers
 - **L12** - Gestionarea evenimentelor
-
-## Deschidere in IntelliJ
-
-1. Deschide IntelliJ IDEA.
-2. Alege **File -> Open**.
-3. Selecteaza folderul unui proiect din `proiecte-intellij/`.
-4. In proiect, intra in `src/` si ruleaza clasa dorita.
-
-## Comenzi GitHub
-
-```bash
-git init
-git add .
-git commit -m "Adaug laboratoare Java"
-git branch -M main
-git remote add origin LINK_REPO_GITHUB
-git push -u origin main
-```
 
 ## Observatii
 
